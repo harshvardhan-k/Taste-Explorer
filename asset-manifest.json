@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Taste-Explorer/static/css/main.e6c13ad2.css",
+    "main.js": "/Taste-Explorer/static/js/main.868b21f8.js",
+    "static/js/787.08e206e6.chunk.js": "/Taste-Explorer/static/js/787.08e206e6.chunk.js",
+    "static/media/middle.jpg": "/Taste-Explorer/static/media/middle.31817ce29e1dcafefc65.jpg",
+    "static/media/vegan-food.png": "/Taste-Explorer/static/media/vegan-food.b62a9f0f2ed4639df9c4.png",
+    "static/media/search.png": "/Taste-Explorer/static/media/search.3a608aca6f4d314714c4.png",
+    "index.html": "/Taste-Explorer/index.html",
+    "main.e6c13ad2.css.map": "/Taste-Explorer/static/css/main.e6c13ad2.css.map",
+    "main.868b21f8.js.map": "/Taste-Explorer/static/js/main.868b21f8.js.map",
+    "787.08e206e6.chunk.js.map": "/Taste-Explorer/static/js/787.08e206e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.868b21f8.js"
+  ]
+}
